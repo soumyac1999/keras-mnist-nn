@@ -8,3 +8,6 @@ A 4-layer neural network for MNIST using keras
 - Output layer with 10 neurons [softmax activation]
 
 This model achieves 98.5% test accuracy in 40 epochs using `rmsprop` optimizer 
+
+### To Use
+Download [MNIST](http://yann.lecun.com/exdb/mnist/) dataset in a folder and name it 'mnist'
