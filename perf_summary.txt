@@ -1,0 +1,16 @@
+
+200 - 100 -10
+RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.0) 	50 epochs	98.2
+RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.00001) 50 epochs   98.0
+RMSprop(lr=0.0005, rho=0.9, epsilon=None, decay=0.00001)50 epochs   98.25  train acc = 100
+RMSprop(lr=0.0005, rho=0.9, epsilon=None, decay=0.00002)60 epochs   98.27  train acc = 100
+
+
+392 - 196 -10
+RMSprop(lr=0.0001, rho=0.9, decay=1e-5)					50 			98.1
+RMSprop(lr=0.0005, rho=0.9, decay=1e-5)					50			98.37
+RMSprop(lr=0.0005, rho=0.9, decay=3e-5)					50			98.4
+RMSprop(lr=0.0005, rho=0.9, decay=1e-4)					50 			98.38
+RMSprop(lr=0.0003, rho=0.9, decay=1e-4)					50 			98.23
+RMSprop(lr=0.0007, rho=0.9, decay=1e-4)					40			98.5
+
