@@ -1,5 +1,5 @@
 # keras-mnist-nn
-A 4-layer neural network for MNIST using keras
+A 3-layer neural network for MNIST using keras
 
 The jupyter notebook contains my submission for the [Digit Recognizer Challenge](https://www.kaggle.com/c/digit-recognizer/) on Kaggle the same neural network. The neural network got a score of 0.97071 on 1 and the submission was ranked 1722 out of 2459 on a rolling scoreboard.
 
